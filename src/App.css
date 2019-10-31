@@ -20,3 +20,16 @@
 .App-link {
   color: #09d3ac;
 }
+
+.wrapper{
+  height:100vh;
+  display: flex;
+  align-items: center;
+  width:100%;
+}
+.wrapper input{
+  text-align: center;
+}
+.wrapper .row{
+  width:100%
+}
